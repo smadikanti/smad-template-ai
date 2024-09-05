@@ -1,0 +1,1 @@
+a python ui with a text box, when entered text and clicked submit, it has to call claude 3.5 sonnet and generate response and print it.
